@@ -3,6 +3,8 @@ Blender keyframes to Hytale blockyanim exporter
 
 # How to use
 
+Only works in blender 5.0
+
 The python script needs to be run in Blender's Text Editor
 
 <img width="762" height="256" alt="image" src="https://github.com/user-attachments/assets/b2907f88-c3d5-4f3c-890e-b535fa8fa169" />

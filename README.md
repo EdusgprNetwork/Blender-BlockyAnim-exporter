@@ -21,6 +21,20 @@ Then simply run the script with the Text Editor "Run Script" Button. and it will
 
 <img width="581" height="95" alt="image" src="https://github.com/user-attachments/assets/e2b714c8-3bbb-403e-bf5f-4df4a2c444b8" />
 
+# Disclaimer
+
+If it doesn't export correctly, try baking your animation in pose mode using Pose > Animation > Bake Action
+
+<img width="707" height="272" alt="image" src="https://github.com/user-attachments/assets/2d11cb48-46e3-45cd-a15e-4fa31496509e" />
+
+Then make sure to use these settings
+
+<img width="323" height="462" alt="image" src="https://github.com/user-attachments/assets/645a51ee-b495-4500-89c9-4279f33e5eef" />
+
+Then click OK, and hopefully the animation will be closer to the original when exporting.
+
+
+
 # Hytale Rig Blend File not included
 If you want help with an animation getting exported, you can find me in the Hytale Discord in the Community-fan-art post "Blender to blockyanim"
 good luck

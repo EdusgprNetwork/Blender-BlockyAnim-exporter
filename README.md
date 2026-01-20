@@ -1,6 +1,10 @@
 # Blender-BlockyAnim-exporter
 Blender keyframes to Hytale blockyanim exporter
 
+
+![Accolades](https://github.com/user-attachments/assets/201f9faf-d819-4f57-8340-f39c71fec6b3)
+
+
 # How to use
 
 Only works in blender 5.0
